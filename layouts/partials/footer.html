@@ -1,0 +1,16 @@
+<!-- sticky footer height is same as <body> margin-bottom -->
+<footer class="bg-blue-lighter text-grey-darker absolute w-full pin-b">
+    <div class="container mx-auto px-8 py-4">
+            <ul class="list-reset">
+                <li><a class="no-underline text-grey-darker dim" href="{{ .Site.BaseURL }}">Home</a></li>
+                {{ range .Site.Menus.main -}}
+                    <li class="mt-1"><a class="no-underline text-grey-darker dim" href="{{ .URL }}">{{ .Name }}</a></li>
+                {{ end }}
+            </ul>
+            <div class="my-4">{{ .Site.Params.CopyrightHTML | safeHTML }}</div>
+        <div class="mt-4 mb-8 text-grey-darker opacity-50">Site by <a href="https://grayscale.digital" class="text-grey-darker no-underline">Grayscale Digital</a></div>
+    </div>
+</footer>
+<script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+<script src="{{ .Site.BaseURL }}{{ index .Site.Data.assetMap "vendor.js" }}"></script>
+<script src="{{ .Site.BaseURL }}{{ index .Site.Data.assetMap "main.js" }}"></script>

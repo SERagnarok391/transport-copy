@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+<div>
+    {{ partial "page-title" (dict "title" .Title "subtitle" .Params.subtitle)}}
+
+    <div class="max-w-md mx-auto mt-8 leading-normal">
+        {{ .Content }}
+    </div>
+
+</div>
+
+{{ end }}

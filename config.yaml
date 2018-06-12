@@ -1,0 +1,33 @@
+---
+baseURL: "https://www.transitcopywriting.com/"
+title: "Transport Copy"
+languageCode: "en-us"
+metaDataFormat: yaml
+pluralizeListTitles: false
+enableRobotsTXT: true
+paginate: 5 # Number of posts per page
+
+permalinks:
+  work: /:section/:slug/
+
+taxonomies:
+  tags: tags
+
+params:
+  CopyrightHTML: "Copyright &#xA9; 2018 Transport Copy Ltd"
+
+menu:
+  main:
+    - Name: "About Me"
+      Weight: 1
+      Identifier: "about"
+      URL: "/about/"
+    - Name: "Previous Work"
+      Weight: 2
+      Identifier: "work"
+      URL: "/work/"
+    - Name: "Contact Me"
+      Weight: 3
+      Identifier: "contact"
+      URL: "/contact/"
+---

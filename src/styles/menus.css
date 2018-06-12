@@ -1,0 +1,56 @@
+/**
+ * PRIMARY NAV
+ */
+
+.nav-item {
+	@apply .block .mt-2;
+}
+
+@screen md {
+	.nav-item {
+		@apply .inline-block .mt-0;
+	}
+
+	.nav-item:not(:last-child) {
+		@apply .mr-2;
+	}
+}
+
+@screen lg {
+	.nav-item:not(:last-child) {
+		@apply .mr-8;
+	}
+}
+
+.nav-link {
+	@apply .text-lg .leading-normal .text-grey-darker .no-underline .whitespace-no-wrap;
+}
+
+.nav-cta {
+	@apply .text-lg .leading-normal .no-underline .whitespace-no-wrap .text-blue .bg-white;
+	@apply .border .border-solid .rounded-full .border-blue;
+	@apply .px-6 .py-2;
+}
+
+/**
+ * DROPDOWN MENU
+ */
+
+.dropdown-menu {
+	left: 0;
+	top: 2.1em;
+	display: none;
+}
+
+.dropdown:hover .dropdown-menu {
+	display: block;
+}
+
+.submenu {
+	opacity: 0;
+	transition: opacity 0.5s ease-in;
+}
+
+.dropdown:hover .dropdown-menu .submenu {
+	opacity: 1;
+}
