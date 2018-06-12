@@ -1,9 +1,11 @@
 ---
 weight: 2
 title: Sample 2
+author: Sharon Beckstrand
 description: >
-  This is where the description goes.
-thumbnail: https://images.unsplash.com/photo-1492138623748-a1b1f758a762?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=044705e9160e7efdd24ba455e0a943ca&auto=format&fit=crop&w=667&q=80
+  This one has a link to the live article as well.
+thumbnail: https://tailwindcss.com/img/card-left.jpg
+link: https://tailwindcss.com/
 ---
 
 Sweet roll cheesecake cake toffee halvah. Pastry toffee sugar plum. Tootsie roll jelly-o chocolate bar powder. Gummies powder chupa chups croissant pastry jelly lemon drops. Bear claw wafer cheesecake gummies pie tootsie roll chocolate bar. Tart croissant marzipan. Cookie tiramisu marzipan. Liquorice cookie halvah halvah chocolate cake liquorice chocolate. Toffee cake chocolate cake lemon drops sweet roll. Oat cake candy canes sweet roll chocolate cake jelly beans apple pie. Icing croissant topping bonbon dessert. Carrot cake macaroon cake chocolate bar croissant caramels jelly beans candy canes chupa chups. Cupcake wafer croissant croissant marshmallow. Caramels sweet chocolate bar tootsie roll [marzipan sweet](http://rebol.com).

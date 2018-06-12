@@ -4,8 +4,16 @@
     {{ partial "page-title" (dict "title" .Title "subtitle" .Params.subtitle)}}
 
     <div class="max-w-md mx-auto mt-8 leading-normal">
-        {{ .Content }}
+        <div class="float-right p-4 clearfix">
+            <img class="w-64" src="/images/sharon_scaled.jpg" alt="Headshot of Sharon">
+            <br>
+            <span class="italic text-grey-dark">Sharon Beckstrand</span>
+        </div>
+        <div class="content">
+            {{ .Content }}
+        </div>
     </div>
+
 
 </div>
 

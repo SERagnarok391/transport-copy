@@ -19,19 +19,19 @@
                 {{ $len := (len $list) }}
                 {{ range $index, $element := $list }}
                 <li
-                    {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
+                    {{- if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
                     class="nav-item active"
-                    {{ else }}
+                    {{- else }}
                     class="nav-item"
-                    {{ end }}>
+                    {{- end -}}>
                     <a
-                    {{ if eq (add $index 1) $len }}
+                    {{ if eq (add $index 1) $len -}}
                     class="nav-cta dim"
-                    {{ else }}
+                    {{- else -}}
                     class="nav-link dim"
-                    {{ end }}
+                    {{- end -}}
                     href="{{ .URL | relLangURL }}">
-                    {{ .Name }}
+                    {{- .Name -}}
                     </a>
                 </li>
                 {{ end }}
