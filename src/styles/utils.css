@@ -47,7 +47,7 @@
 
 .btn-outline {
 	@apply .leading-normal .no-underline .whitespace-no-wrap .text-grey;
-	@apply .border .border-solid .rounded-full .border-grey;
+	@apply .border .border-solid .rounded-lg .border-grey;
 	@apply .px-6 .py-2 .cursor-pointer;
 }
 
