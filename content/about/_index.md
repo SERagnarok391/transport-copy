@@ -1,9 +1,10 @@
 ---
 title: About
 ---
+Transport Copy helps transportation, supply chain, and logistics companies reach their conversion and marketing goals through amazing content.
 
-scenester 90's single-origin coffee selvage stumptown drinking vinegar wayfarers letterpress tousled aesthetic lo-fi paleo Intelligentsia plaid four loko messenger bag Marfa art party swag +1 cred artisan Schlitz cray try-hard.
+What does this mean? More leads, more referrals, and more profit for your business.
 
-hashtag Neutra bitters Helvetica PBR asymmetrical VHS flannel crucifix vinyl church-key master cleanse hoodie semiotics banjo cliche Banksy actually street art YOLO locavore distillery narwhal High Life craft beer Kickstarter kale chips ethical leggings Carles food truck 3 wolf moon Tonx brunch twee Cosby sweater keytar meggings squid American Apparel heirloom trust fund sartorial Wes Anderson pour-over slow-carb readymade blog raw denim Pitchfork disrupt cornhole viral chambray Vice next level gluten-free Pinterest ugh post-ironic skateboard pork belly vegan chillwave roof party authentic Truffaut occupy Thundercats Shoreditch Austin 8-bit mumblecore iPhone organic ennui pug put a bird on it jean shorts normcore flexitarian bicycle rights fingerstache DIY gastropub sustainable gentrify salvia Blue Bottle Odd Future selfies retro wolf Bushwick McSweeney's kogi direct trade Echo Park tote bag sriracha XOXO dreamcatcher tofu Tumblr typewriter Brooklyn mustache pickled polaroid.
+Due to the behind-the-scenes and technical nature of logistics, content marketing is frequently overlooked by companies in the shipping industry. Don't do this! Your web presence is everything in 2018! Customers see your website and blog before contacting you, and you need to make sure that it's a great first impression. Clean, conversational, and informative copy will provide your business with the authority it needs to convert.
 
-irony freegan biodiesel kitsch Etsy pop-up banh mi shabby chic mixtape keffiyeh you probably haven't heard of them tattooed PBR&B whatever before they sold out seitan fixie synth yr cardigan fashion axe fanny pack photo booth Godard deep v quinoa bespoke fap chia forage Portland umami beard farm-to-table literally hella butcher meh Williamsburg mlkshk small batch lomo
+Don't get left behind. Let's start.
