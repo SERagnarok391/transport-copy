@@ -1,0 +1,22 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: "static/images" # Media files will be stored in the repo under static/images
+public_folder: "/images" # The src attribute for uploaded media will begin with /images
+
+
+collections:
+  - name: "work"
+    label: "Work"
+    folder: "content/work"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Author", name: "author", widget: "string", default: "Sharon Beckstrand" }
+      - { label: "Description", name: "description", widget: "markdown" }
+      - { label: "Link", name: "link", widget: "string" }
+      - { label: "Link Only?", name: "link_only", widget: "boolean" }
+      - { label: "Thumbnail", name: "thumbnail", widget: "image", default: "http://via.placeholder.com/500x280" }
