@@ -7,6 +7,35 @@ public_folder: "/images" # The src attribute for uploaded media will begin with 
 
 
 collections:
+  - name: "pages"
+    label: "Pages"
+    files:
+      - name: "home"
+        label: "Home"
+        file: "content/_index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Subtitle", name: "subtitle", widget: "string" }
+          - { label: "Button Text", name: "button_text", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - name: "about"
+        label: "About Me"
+        file: "content/about/_index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - name: "work"
+        label: "Previous Work"
+        file: "content/work/_index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - name: "contact"
+        label: "Contact"
+        file: "content/contact/_index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
   - name: "work"
     label: "Work"
     folder: "content/work"
@@ -20,3 +49,4 @@ collections:
       - { label: "Link", name: "link", widget: "string" }
       - { label: "Link Only?", name: "link_only", widget: "boolean" }
       - { label: "Thumbnail", name: "thumbnail", widget: "image", default: "http://via.placeholder.com/500x280" }
+      - { label: "Body", name: "body", widget: "markdown" }
