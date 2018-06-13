@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About
 ---
 
 scenester 90's single-origin coffee selvage stumptown drinking vinegar wayfarers letterpress tousled aesthetic lo-fi paleo Intelligentsia plaid four loko messenger bag Marfa art party swag +1 cred artisan Schlitz cray try-hard.
