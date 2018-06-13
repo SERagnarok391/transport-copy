@@ -28,7 +28,7 @@
 
 .nav-cta {
 	@apply .text-lg .leading-normal .no-underline .whitespace-no-wrap .text-blue .bg-white;
-	@apply .border .border-solid .rounded-full .border-blue;
+	@apply .border .border-solid .rounded-lg .border-blue;
 	@apply .px-6 .py-2;
 }
 

@@ -4,7 +4,7 @@ title: Sample one
 author: Sharon Beckstrand
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et lorem sed quam porta rhoncus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et lorem sed quam porta rhoncus.
-thumbnail: "https://tailwindcss.com/img/card-left.jpg"
+hero_src: "https://tailwindcss.com/img/card-left.jpg"
 ---
 
 Sweet roll cheesecake cake toffee halvah. Pastry toffee sugar plum. Tootsie roll jelly-o chocolate bar powder. Gummies powder chupa chups croissant pastry jelly lemon drops. Bear claw wafer cheesecake gummies pie tootsie roll chocolate bar. Tart croissant marzipan. Cookie tiramisu marzipan. Liquorice cookie halvah halvah chocolate cake liquorice chocolate. Toffee cake chocolate cake lemon drops sweet roll. Oat cake candy canes sweet roll chocolate cake jelly beans apple pie. Icing croissant topping bonbon dessert. Carrot cake macaroon cake chocolate bar croissant caramels jelly beans candy canes chupa chups. Cupcake wafer croissant croissant marshmallow. Caramels sweet chocolate bar tootsie roll [marzipan sweet](http://rebol.com).

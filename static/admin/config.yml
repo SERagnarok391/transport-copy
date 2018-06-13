@@ -48,5 +48,5 @@ collections:
       - { label: "Description", name: "description", widget: "markdown" }
       - { label: "Link", name: "link", widget: "string" }
       - { label: "Link Only?", name: "link_only", widget: "boolean" }
-      - { label: "Thumbnail", name: "thumbnail", widget: "image", default: "http://via.placeholder.com/500x280" }
+      - { label: "Hero Image", name: "hero_src", widget: "image", default: "http://via.placeholder.com/500x280" }
       - { label: "Body", name: "body", widget: "markdown" }

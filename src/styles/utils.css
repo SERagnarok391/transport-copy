@@ -15,7 +15,7 @@
 }
 
 .btn {
-	@apply .inline-block .my-4 .py-2 .px-4 .min-w-3xs .rounded-full;
+	@apply .inline-block .my-4 .py-2 .px-4 .min-w-3xs .rounded-lg;
 	@apply .no-underline .bg-grey .text-white .text-center .font-bold;
 	@apply .cursor-pointer;
 }
@@ -31,6 +31,16 @@
 
 .btn-blue:hover {
 	@apply .bg-blue-dark;
+
+	transition: background-color 0.15s ease-out;
+}
+
+.btn-yellow {
+	@apply .bg-yellow-dark .text-black;
+}
+
+.btn-yellow:hover {
+	@apply .bg-yellow;
 
 	transition: background-color 0.15s ease-out;
 }

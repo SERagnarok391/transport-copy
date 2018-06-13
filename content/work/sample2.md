@@ -4,7 +4,7 @@ title: Sample 2
 author: Sharon Beckstrand
 description: >
   This one has a link to the live article as well.
-thumbnail: https://tailwindcss.com/img/card-left.jpg
+hero_src: https://tailwindcss.com/img/card-left.jpg
 link: https://tailwindcss.com/
 ---
 

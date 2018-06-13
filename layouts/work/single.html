@@ -6,17 +6,21 @@
 
 <section class="w-full px-2 md:px-8 py-2 mt-8">
 	<div class="container mx-auto px-2 md:px-8">
+		{{ if (isset .Params "hero_src") }}
+			<div class="max-w-lg mx-auto shadow-md text-center">
+				<div class="h-64 bg-center bg-no-repeat bg-cover" style="background-image: url('{{ .Params.hero_src }}');"></div>
+			</div>
+		{{ end }}
 		<div class="max-w-md mx-auto mt-8">
-			<a class="text-blue-light block mb-4" href="/work/">&larr; back to previous work</a>
 			<h1 class="text-grey-darker text-4xl">{{ .Title }}</h1>
 			<div class="text-grey-dark mb-2">By {{ .Params.author }}</div>
-
 			{{ with .Params.link }}
-				<a class="btn btn-blue" href="{{ . }}">Read it live</a>
+			<a class="btn btn-blue" href="{{ . }}">Read it live</a>
 			{{ end }}
 			<div class="text-grey-darkest my-4 content">
 				{{ .Content }}
 			</div>
+			<a class="text-xl text-blue-light block mb-4" href="/work/">&larr; back to previous work</a>
 		</div>
 	</div>
 </section>
