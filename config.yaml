@@ -5,7 +5,6 @@ languageCode: "en-us"
 metaDataFormat: yaml
 pluralizeListTitles: false
 enableRobotsTXT: true
-paginate: 5 # Number of posts per page
 
 permalinks:
   work: /:section/:slug/
@@ -18,7 +17,7 @@ params:
 
 menu:
   main:
-    - Name: "About Me"
+    - Name: "About"
       Weight: 1
       Identifier: "about"
       URL: "/about/"
