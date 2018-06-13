@@ -1,5 +1,5 @@
 {
-	"name": "transit-copywriting",
+	"name": "transport-copy-site",
 	"version": "0.0.1",
 	"author": "Grayscale Digital",
 	"license": "Private, all rights reserved",
@@ -53,8 +53,6 @@
 		"webpack-cli": "^2.1.4"
 	},
 	"dependencies": {
-		"date-fns": "^1.29.0",
-		"vue": "^2.5.16",
-		"wretch": "^1.2.0"
+		"vue": "^2.5.16"
 	}
 }
