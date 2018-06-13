@@ -8,9 +8,8 @@
                 {{ end }}
             </ul>
             <div class="my-4">{{ .Site.Params.CopyrightHTML | safeHTML }}</div>
-        <div class="mt-4 mb-8 text-grey-darkest opacity-50">Site by <a href="https://grayscale.digital" class="text-grey-darkest no-underline">Grayscale Digital</a></div>
+        <div class="mt-4 mb-8 text-grey-darkest opacity-50"><a href="https://grayscale.digital" class="text-grey-darkest no-underline">Site by Grayscale Digital</a></div>
     </div>
 </footer>
 <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
-<script src="{{ .Site.BaseURL }}{{ index .Site.Data.assetMap "vendor.js" }}"></script>
 <script src="{{ .Site.BaseURL }}{{ index .Site.Data.assetMap "main.js" }}"></script>

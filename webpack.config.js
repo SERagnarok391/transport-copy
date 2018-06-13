@@ -23,8 +23,7 @@ const ifDev = (val, alt) => {
 const paths = {
 	CWD: path.resolve(__dirname),
 	DIST: path.resolve(__dirname, 'static'),
-	SRC: path.resolve(__dirname, 'src'),
-	SITE: path.resolve(__dirname, '../../src')
+	SRC: path.resolve(__dirname, 'src')
 };
 
 // Custom PurgeCSS extractor for Tailwind that allows special characters in class names.
@@ -38,14 +37,8 @@ class TailwindExtractor {
 module.exports = {
 	// If a string or array of strings is passed, the chunk is named `main`.
 	entry: [
-		...glob.sync([
-			path.join(paths.SRC, 'js', '/**/*.{js,ts}'),
-			path.join(paths.SITE, 'js', '/**/*.{js,ts}')
-		]),
+		...glob.sync([path.join(paths.SRC, 'js', '/**/*.{js,ts}')]),
 		path.join(paths.SRC, 'styles', 'main.css')
-		// This is imported directly from main.css for now. Revisit when Tailwind can use `@apply` for
-		// classes that aren't in the same CSS tree.
-		// path.join(paths.SITE, 'styles', 'main.css')
 	],
 	output: {
 		path: paths.DIST,
