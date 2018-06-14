@@ -1,4 +1,4 @@
 ---
 title: Previous Work
 ---
-Here are a few previous posts.
+Here are some articles!
