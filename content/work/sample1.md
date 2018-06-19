@@ -23,6 +23,8 @@ In 2018, everyone has a web presence. In order to stand out, you also need to pr
 
 Here’s why you need to pay attention to creating great content.
 
+
+
 **Content sells**
 
 You’ve probably heard that content sells. This is also easy to overlook when many logistics companies are B2B and admittedly pretty behind when it comes to making a good impression on the web. Transportation as an industry has resisted many technological advances. Most of these companies maybe start a blog to get ahead. This is obviously sound advice, as B2B businesses that maintain a blog get [67% more leads](https://www.forbes.com/sites/johnrampton/2016/09/21/why-you-cant-afford-to-ignore-blogging-as-part-of-your-online-strategy/#47a90142ab73) than those that don’t. But as more businesses get on board, the type and quality of the content is becoming more and more important. We should probably update this headline to “good content sells”. 
@@ -49,8 +51,6 @@ This is what every logistics company wants. Wouldn’t it be great if a client i
 You can get this done with content. Having a clean website, no spelling or grammar mistakes, and a memorable company logo will only get you so far on their own. Clearly communicate what you do, provide value in your blog as a company within the transportation space, and become a voice of authority. You’ll build your client list and save time (and money) during the sales and onboarding process. 
 
 Clients trust direct and easy-to-read content. Customers associate a straightforward writing voice with honesty, which means that clients are more likely to trust that you will deliver on your promises. 
-
-
 
 The web is becoming more competitive as businesses become convinced that having an online presence pays off. Make sure that you’re providing value with your content, and your business will continue to stand out. Otherwise, it will become harder and harder to attract new clients through a website and blog alone. In supply chain especially, trying to attract customers by speaking in difficult-to-understand language and failing to have a central brand message will make it harder to get the benefits of online marketing.
 
