@@ -1,20 +1,57 @@
 ---
-weight: 1
-title: Sample one
+title: >-
+  Build Your Audience- Why Logistics and Supply Chain Businesses Need Great Web
+  Content
+weight: '1'
 author: Sharon Beckstrand
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et lorem sed quam porta rhoncus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et lorem sed quam porta rhoncus.
-hero_src: "https://tailwindcss.com/img/card-left.jpg"
+  Do you really need to pay attention to content? It might be tempting to think
+  that your organization speaks for itself. You have a clean website, great
+  testimonials, and a blog. 
+
+
+  That’s enough, right? Wrong.
+link: meow
+link_only: false
+hero_src: /images/architecture-bridge-buildings-374018.jpg
 ---
+Do you really need to pay attention to content? It might be tempting to think that your organization speaks for itself. You have a clean website, great testimonials, and a blog. 
 
-Sweet roll cheesecake cake toffee halvah. Pastry toffee sugar plum. Tootsie roll jelly-o chocolate bar powder. Gummies powder chupa chups croissant pastry jelly lemon drops. Bear claw wafer cheesecake gummies pie tootsie roll chocolate bar. Tart croissant marzipan. Cookie tiramisu marzipan. Liquorice cookie halvah halvah chocolate cake liquorice chocolate. Toffee cake chocolate cake lemon drops sweet roll. Oat cake candy canes sweet roll chocolate cake jelly beans apple pie. Icing croissant topping bonbon dessert. Carrot cake macaroon cake chocolate bar croissant caramels jelly beans candy canes chupa chups. Cupcake wafer croissant croissant marshmallow. Caramels sweet chocolate bar tootsie roll [marzipan sweet](http://rebol.com).
+That’s enough, right? Wrong. 
 
-Chocolate ice cream danish tiramisu jelly-o candy canes candy. Bear claw gummies candy dragée bonbon cotton candy. Pudding oat cake cupcake danish croissant. Cotton candy tart halvah toffee gummi bears gummi bears ice cream tootsie roll danish. Cupcake sesame snaps muffin chocolate bar tart. Donut marzipan tart bonbon chocolate cake bear claw. Jelly icing jelly beans cake gummi bears candy liquorice lollipop. Oat cake cupcake chupa chups bonbon. Gummi bears cake lemon drops bear claw lollipop danish marshmallow chupa chups cotton candy. Sweet roll candy donut wafer gummi bears wafer marshmallow. Candy canes cookie cheesecake macaroon bear claw soufflé muffin. Topping topping chocolate cake apple pie. Jelly lollipop sweet roll jelly beans tootsie roll.
+In 2018, everyone has a web presence. In order to stand out, you also need to provide valuable content online. It’s a lot more than avoiding misspellings and bad grammar, too- you have to think about your brand, your presence, and the value you are providing to your customer. You are providing value in the supply chain space, right? 
 
-### Subtitle here
+Here’s why you need to pay attention to creating great content.
 
-Fruitcake pastry toffee cotton candy chocolate pastry macaroon. Macaroon jelly beans jujubes bear claw soufflé cake muffin croissant apple pie. Cheesecake bear claw powder liquorice cake danish. Biscuit gingerbread cotton candy cake halvah tart. Carrot cake candy canes halvah cotton candy tiramisu cotton candy. Gummies brownie pudding tart. Bonbon pudding macaroon chocolate bar liquorice donut. Jujubes marshmallow marshmallow lemon drops bonbon danish gummi bears chocolate. Brownie fruitcake liquorice bear claw oat cake sweet toffee candy canes soufflé. Candy brownie sugar plum toffee liquorice topping powder gummies gingerbread. Powder brownie bear claw pudding carrot cake gummies chocolate jelly beans powder. Ice cream pastry danish candy. Candy canes tiramisu toffee chocolate bar muffin brownie dragée. Lemon drops chupa chups topping tootsie roll pie tiramisu gummies.
+**Content sells**
 
-> Candy canes powder chocolate marzipan muffin dragée cookie. Gummies dragée lollipop jelly beans. Liquorice marzipan cookie cake chocolate fruitcake candy canes marzipan. Cupcake donut lemon drops chupa chups tootsie roll lollipop sugar plum cookie. Chocolate bar pastry cotton candy candy icing biscuit oat cake. Chocolate cake liquorice tart. Candy cupcake powder. Halvah halvah tootsie roll pastry oat cake chocolate cake. Dessert cookie cupcake cotton candy. Gummies lemon drops brownie. Chocolate toffee toffee jelly-o topping tart topping chocolate cake. Cake bear claw powder.
+You’ve probably heard that content sells. This is also easy to overlook when many logistics companies are B2B and admittedly pretty behind when it comes to making a good impression on the web. Transportation as an industry has resisted many technological advances. Most of these companies maybe start a blog to get ahead. This is obviously sound advice, as B2B businesses that maintain a blog get [67% more leads](https://www.forbes.com/sites/johnrampton/2016/09/21/why-you-cant-afford-to-ignore-blogging-as-part-of-your-online-strategy/#47a90142ab73) than those that don’t. But as more businesses get on board, the type and quality of the content is becoming more and more important. We should probably update this headline to “good content sells”. 
 
-Marzipan powder donut carrot cake soufflé. Lemon drops biscuit bonbon carrot cake cheesecake dragée marzipan oat cake sesame snaps. Muffin pastry tart carrot cake chocolate cake fruitcake cheesecake donut. Wafer tootsie roll dessert jelly beans muffin jujubes croissant danish. [Cake pie gummi bears](https://grayscale.digital). Tootsie roll muffin tootsie roll. Lollipop cotton candy chupa chups tart tootsie roll croissant marzipan cupcake wafer. Liquorice cotton candy candy candy canes cake. Chocolate cake macaroon jelly beans gummies cotton candy. Sweet sweet bonbon dragée. Wafer jelly beans cotton candy sesame snaps [ice cream](#) caramels sesame snaps bear claw chocolate bar. Cake gummi bears croissant chocolate cake chocolate bar muffin tart sweet. Halvah jelly gingerbread cookie biscuit. Cookie marzipan powder cookie marzipan chocolate.
+So if you have _great_ content, you’ll be even further ahead than those with good content. And so on.
+
+**Content provides authority**
+
+The only thing better than new leads is getting referrals. One of the best ways to do this is to be seen as an authority in your company’s space. Yes, if you provide an awesome service, you’re likely to get referrals that way. But if you also provide cutting-edge information about supply chain trends, logistics solutions, and new technologies in transportation, you can bet that your readers will benefit from useful information, and will remember you for letting them know. 
+
+In other words, help your clients out before they even become your clients. Provide value with the content that you write, and that investment will pay off with links and referrals.
+
+**Creates a clear, consistent message**
+
+Emphasis on the _clear_. Although I’ve mostly emphasized blog content, other web content is just as important. We all know that the supply chain and logistics space is riddled with technical jargon, poor communication, and confusion about what these businesses actually do. Improving internal communication has been shown time and time again to [help logistics companies improve their bottom line](https://logisticsviewpoints.com/2015/04/30/improved-communication-helps-to-drive-efficiencies-into-transportation-scheduling/). Improved client communication also helps you achieve financial results.
+
+Do your customers know all of your internal jargon? Probably not, so keep it out of your web copy. 
+
+If a potential client immediately knows what you do and why it will benefit them, you are far more likely to convert that client. Keep it simple, keep it direct, and make it easy to understand. That’s great content.
+
+**Builds Trust**
+This is what every logistics company wants. Wouldn’t it be great if a client immediately trusted you to provide them with a great service, had fewer up-front questions, and converted quickly?
+
+You can get this done with content. Having a clean website, no spelling or grammar mistakes, and a memorable company logo will only get you so far on their own. Clearly communicate what you do, provide value in your blog as a company within the transportation space, and become a voice of authority. You’ll build your client list and save time (and money) during the sales and onboarding process. 
+
+Clients trust direct and easy-to-read content. Customers associate a straightforward writing voice with honesty, which means that clients are more likely to trust that you will deliver on your promises. 
+
+
+
+The web is becoming more competitive as businesses become convinced that having an online presence pays off. Make sure that you’re providing value with your content, and your business will continue to stand out. Otherwise, it will become harder and harder to attract new clients through a website and blog alone. In supply chain especially, trying to attract customers by speaking in difficult-to-understand language and failing to have a central brand message will make it harder to get the benefits of online marketing.
+
+So, get to tweaking and improving your content. If you don’t, your competitors will.
