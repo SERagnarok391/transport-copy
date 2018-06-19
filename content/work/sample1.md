@@ -52,6 +52,8 @@ You can get this done with content. Having a clean website, no spelling or gramm
 
 Clients trust direct and easy-to-read content. Customers associate a straightforward writing voice with honesty, which means that clients are more likely to trust that you will deliver on your promises. 
 
+
+
 The web is becoming more competitive as businesses become convinced that having an online presence pays off. Make sure that you’re providing value with your content, and your business will continue to stand out. Otherwise, it will become harder and harder to attract new clients through a website and blog alone. In supply chain especially, trying to attract customers by speaking in difficult-to-understand language and failing to have a central brand message will make it harder to get the benefits of online marketing.
 
 So, get to tweaking and improving your content. If you don’t, your competitors will.
