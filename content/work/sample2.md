@@ -1,6 +1,7 @@
 ---
 weight: 2
 title: Sample 2
+slug: sample-2
 author: Sharon Beckstrand
 description: >
   This one has a link to the live article as well.

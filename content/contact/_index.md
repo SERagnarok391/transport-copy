@@ -1,5 +1,6 @@
 ---
 title: Contact Me
+hero_src: http://via.placeholder.com/750x300
 ---
 I'm Sharon, and I specialize in writing strategic content for logistics/supply chain businesses. While the websites in this field tend to include a lot of technical jargon, the copy should be easy to understand!
 

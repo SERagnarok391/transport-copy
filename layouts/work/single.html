@@ -1,5 +1,5 @@
 {{ define "title" }}
-	{{ .Title }} &ndash; Blog &ndash; {{ .Site.Title }}
+	{{ .Title | safeHTML }} &ndash; Blog &ndash; {{ .Site.Title }}
 {{ end }}
 
 {{ define "main" }}
@@ -12,8 +12,8 @@
 			</div>
 		{{ end }}
 		<div class="max-w-md mx-auto mt-8">
-			<h1 class="text-grey-darker text-4xl">{{ .Title }}</h1>
-			<div class="text-grey-dark mb-2">By {{ .Params.author }}</div>
+			<h1 class="text-grey-darker text-4xl">{{ .Title | safeHTML }}</h1>
+			<div class="text-grey-dark my-2">By {{ .Params.author }}</div>
 			{{ with .Params.link }}
 			<a class="btn btn-blue" href="{{ . }}">Read it live</a>
 			{{ end }}

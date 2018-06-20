@@ -17,25 +17,26 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Subtitle", name: "subtitle", widget: "string" }
           - { label: "Button Text", name: "button_text", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
       - name: "about"
         label: "About Me"
         file: "content/about/_index.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Hero Image", name: "hero_src", widget: "image", default: "http://via.placeholder.com/750x300" }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
       - name: "work"
         label: "Previous Work"
         file: "content/work/_index.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
       - name: "contact"
         label: "Contact"
         file: "content/contact/_index.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
   - name: "work"
     label: "Work"
     folder: "content/work"
@@ -43,10 +44,11 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "URL", name: "slug", widget: "string", pattern: ["^[a-z0-9\_\-]+$", "only lowercase letters, numbers, dash, and underscore - no whitespace" required: false }
       - { label: "Weight", name: "weight", widget: "number" }
       - { label: "Author", name: "author", widget: "string", default: "Sharon Beckstrand" }
-      - { label: "Description", name: "description", widget: "markdown" }
-      - { label: "Link", name: "link", widget: "string" }
-      - { label: "Link Only?", name: "link_only", widget: "boolean" }
-      - { label: "Hero Image", name: "hero_src", widget: "image", default: "http://via.placeholder.com/500x280" }
+      - { label: "Description", name: "description", widget: "markdown", required: false }
+      - { label: "Link", name: "link", widget: "string", required: false }
+      - { label: "Link Only?", name: "link_only", widget: "boolean", required: false }
+      - { label: "Hero Image", name: "hero_src", widget: "image", default: "http://via.placeholder.com/500x280", required: false }
       - { label: "Body", name: "body", widget: "markdown" }

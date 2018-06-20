@@ -1,7 +1,8 @@
 ---
 title: >-
-  Build Your Audience- Why Logistics and Supply Chain Businesses Need Great Web
+  Build Your Audience &ndash; Why Logistics and Supply Chain Businesses Need Great Web
   Content
+slug: build-your-audience
 weight: '1'
 author: Sharon Beckstrand
 description: >-
@@ -13,7 +14,7 @@ description: >-
   That’s enough, right? Wrong.
 link: meow
 link_only: false
-hero_src: /images/architecture-bridge-buildings-374018.jpg
+hero_src: /images/architecture-bridge-buildings-374018_scaled.jpg
 ---
 Do you really need to pay attention to content? It might be tempting to think that your organization speaks for itself. You have a clean website, great testimonials, and a blog. 
 
@@ -46,13 +47,14 @@ Do your customers know all of your internal jargon? Probably not, so keep it out
 If a potential client immediately knows what you do and why it will benefit them, you are far more likely to convert that client. Keep it simple, keep it direct, and make it easy to understand. That’s great content.
 
 **Builds Trust**
+
 This is what every logistics company wants. Wouldn’t it be great if a client immediately trusted you to provide them with a great service, had fewer up-front questions, and converted quickly?
 
 You can get this done with content. Having a clean website, no spelling or grammar mistakes, and a memorable company logo will only get you so far on their own. Clearly communicate what you do, provide value in your blog as a company within the transportation space, and become a voice of authority. You’ll build your client list and save time (and money) during the sales and onboarding process. 
 
 Clients trust direct and easy-to-read content. Customers associate a straightforward writing voice with honesty, which means that clients are more likely to trust that you will deliver on your promises. 
 
-
+&nbsp;
 
 The web is becoming more competitive as businesses become convinced that having an online presence pays off. Make sure that you’re providing value with your content, and your business will continue to stand out. Otherwise, it will become harder and harder to attract new clients through a website and blog alone. In supply chain especially, trying to attract customers by speaking in difficult-to-understand language and failing to have a central brand message will make it harder to get the benefits of online marketing.
 

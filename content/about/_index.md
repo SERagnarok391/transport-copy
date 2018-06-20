@@ -1,5 +1,6 @@
 ---
 title: About
+hero_src: http://via.placeholder.com/750x300
 ---
 Transport Copy helps transportation, supply chain, and logistics companies reach their conversion and marketing goals through amazing content.
 
