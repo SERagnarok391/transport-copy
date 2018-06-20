@@ -1,6 +1,6 @@
 ---
 title: About
-hero_src: http://via.placeholder.com/750x300
+hero_src: 'http://via.placeholder.com/750x300'
 ---
 Transport Copy helps transportation, supply chain, and logistics companies reach their conversion and marketing goals through amazing content.
 
@@ -8,4 +8,4 @@ Transport Copy helps transportation, supply chain, and logistics companies reach
 
 Due to the behind-the-scenes and technical nature of logistics, content marketing is frequently overlooked by companies in the shipping industry. Don't do this! Your web presence is _everything_ in 2018! Customers see your website and blog before contacting you, and you need to make sure that it's a great first impression. Clean, conversational, and informative copy will provide your business with the authority it needs to convert.
 
-Don't get left behind. **Let's start.**
+Don't get left behind. **[Let's start.](/contact)**
