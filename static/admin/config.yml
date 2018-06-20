@@ -44,7 +44,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "URL", name: "slug", widget: "string", pattern: ["^[a-z0-9\_\-]+$", "only lowercase letters, numbers, dash, and underscore - no whitespace" required: false }
+      - { label: "URL", name: "slug", widget: "string", required: false }
       - { label: "Weight", name: "weight", widget: "number" }
       - { label: "Author", name: "author", widget: "string", default: "Sharon Beckstrand" }
       - { label: "Description", name: "description", widget: "markdown", required: false }
