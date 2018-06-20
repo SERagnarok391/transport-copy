@@ -1,7 +1,7 @@
 ---
 title: >-
-  Build Your Audience &ndash; Why Logistics and Supply Chain Businesses Need Great Web
-  Content
+  Build Your Audience &ndash; Why Logistics and Supply Chain Businesses Need
+  Great Web Content
 slug: build-your-audience
 weight: '1'
 author: Sharon Beckstrand
@@ -24,7 +24,7 @@ In 2018, everyone has a web presence. In order to stand out, you also need to pr
 
 Here’s why you need to pay attention to creating great content.
 
-
+&nbsp;
 
 **Content sells**
 
