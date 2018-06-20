@@ -1,6 +1,6 @@
 ---
 title: About
-hero_src: /images/kinsey-611970-unsplash.jpg
+hero_src: /images/kinsey-611970-unsplash_scaled.jpg
 ---
 Transport Copy helps transportation, supply chain, and logistics companies reach their conversion and marketing goals through amazing content.
 
