@@ -4,7 +4,7 @@ title: >-
   Great Web Content
 slug: build-your-audience
 weight: '1'
-author: Sharon Beckstrand
+author: John Doe
 description: >-
   Do you really need to pay attention to content? It might be tempting to think
   that your organization speaks for itself. You have a clean website, great
