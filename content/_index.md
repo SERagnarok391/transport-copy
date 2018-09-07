@@ -1,6 +1,6 @@
 ---
 title: Transport Copy
-subtitle: I write blog posts and web content for the logistics/supply chain industry.
-button_text: Yeah! I need blog posts and/or web content
+subtitle: I write marketing material for the supply chain/logistics industry.
+button_text: Yeah! I need marketing material.
 ---
 
