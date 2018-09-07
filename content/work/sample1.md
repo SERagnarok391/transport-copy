@@ -4,7 +4,7 @@ title: >-
   Great Web Content
 slug: build-your-audience
 weight: '1'
-author: John Doe
+author: Sharon
 description: >-
   Do you really need to pay attention to content? It might be tempting to think
   that your organization speaks for itself. You have a clean website, great
@@ -20,7 +20,7 @@ Do you really need to pay attention to content? It might be tempting to think th
 
 That’s enough, right? Wrong. 
 
-In 2018, everyone has a web presence. In order to stand out, you also need to provide valuable content online. It’s a lot more than avoiding misspellings and bad grammar, too- you have to think about your brand, your presence, and the value you are providing to your customer. You are providing value in the supply chain space, right? 
+In 2018, everyone has a web presence. In order to stand out, you also need to provide valuable content, both online and off. It’s a lot more than avoiding misspellings and bad grammar, too. You have to think about your brand, your presence, and the value you are providing to your customer. You are providing value in the supply chain space, right? 
 
 Here’s why you need to pay attention to creating great content.
 
