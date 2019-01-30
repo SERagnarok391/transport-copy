@@ -1,6 +1,8 @@
 ---
 title: Transport Copy
-subtitle: I write technical material for the supply chain/logistics industry.
-button_text: I need technical material.
+subtitle: >-
+  I write technical and marketing material for the transportation and logistics
+  industry.
+button_text: I need written content for my business!
 ---
 
