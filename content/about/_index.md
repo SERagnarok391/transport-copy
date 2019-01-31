@@ -6,6 +6,6 @@ Transport Copy helps transportation, supply chain, and logistics companies reach
 
 **What does this mean?** Better training, happier employees, and a streamlined business- resulting in added profit down the road.
 
-Due to the technical nature of logistics, communication- both internal and external- is frequently overlooked by companies in the shipping industry. Don't do this! Your business runs on effective training and concise documentation. Customers see your website and blog before contacting you, and you need to make sure that it's a great first impression. You also need to make sure that everyone's on the same page. Clean, conversational, and informative documents will provide your business with the edge it needs.
+Due to the technical nature of logistics, communication- both internal and external- is frequently overlooked by companies in the shipping industry. Don't do this! Your business runs on effective training and concise documentation. Customers also see your website and blog before contacting you, and you need to make sure that it's a great first impression. Internally, you need to make sure that everyone's on the same page. Clean, conversational, and informative documents will provide your business with the edge it needs.
 
 Don't worry so much about communication. **[Let's start.](/contact)**
