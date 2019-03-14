@@ -13,7 +13,7 @@ taxonomies:
   tags: tags
 
 params:
-  CopyrightHTML: "Copyright &#xA9; 2018 Transport Copy Ltd"
+  CopyrightHTML: "Copyright &#xA9; 2019 Transport Copy Ltd"
 
 menu:
   main:
