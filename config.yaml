@@ -7,26 +7,30 @@ pluralizeListTitles: false
 enableRobotsTXT: true
 
 permalinks:
-  work: /:section/:slug/
+  portfolio: /:section/:slug/
 
 taxonomies:
   tags: tags
 
 params:
-  CopyrightHTML: "Copyright &#xA9; 2019 Transport Copy Ltd"
+  CopyrightHTML: "Copyright &#xA9; 2019 Transport Copy LLC"
 
 menu:
   main:
-    - Name: "About"
+    - Name: "Services/Rates"
       Weight: 1
+      Identifier: "services"
+      URL: "/services/"
+    - Name: "About"
+      Weight: 2
       Identifier: "about"
       URL: "/about/"
-    - Name: "Previous Work"
-      Weight: 2
-      Identifier: "work"
-      URL: "/work/"
-    - Name: "Contact Me"
+    - Name: "Portfolio"
       Weight: 3
+      Identifier: "portfolio"
+      URL: "/portfolio/"
+    - Name: "Contact"
+      Weight: 4
       Identifier: "contact"
       URL: "/contact/"
 ---

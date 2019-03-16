@@ -1,0 +1,93 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M512 42c46 0 86 40 86 86s-40 86-86 86-86-40-86-86 40-86 86-86zM512 298c46 0 86 40 86 86s-40 86-86 86-86-40-86-86 40-86 86-86zM768 298c46 0 86 40 86 86s-40 86-86 86-86-40-86-86 40-86 86-86zM768 554c46 0 86 40 86 86s-40 86-86 86-86-40-86-86 40-86 86-86zM512 554c46 0 86 40 86 86s-40 86-86 86-86-40-86-86 40-86 86-86zM768 214c-46 0-86-40-86-86s40-86 86-86 86 40 86 86-40 86-86 86zM256 554c46 0 86 40 86 86s-40 86-86 86-86-40-86-86 40-86 86-86zM256 298c46 0 86 40 86 86s-40 86-86 86-86-40-86-86 40-86 86-86zM256 42c46 0 86 40 86 86s-40 86-86 86-86-40-86-86 40-86 86-86zM512 810c46 0 86 40 86 86s-40 86-86 86-86-40-86-86 40-86 86-86z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "dialpad"
+        ],
+        "defaultCode": 57532,
+        "grid": 24
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "dialpad",
+        "id": 215,
+        "order": 37,
+        "prevSize": 24,
+        "code": 57532,
+        "name": "dialpad"
+      },
+      "setIdx": 0,
+      "setId": 0,
+      "iconIdx": 215
+    },
+    {
+      "icon": {
+        "paths": [
+          "M512 470l342-214h-684zM854 768v-426l-342 212-342-212v426h684zM854 170c46 0 84 40 84 86v512c0 46-38 86-84 86h-684c-46 0-84-40-84-86v-512c0-46 38-86 84-86h684z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "mail_outline"
+        ],
+        "defaultCode": 57569,
+        "grid": 24
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "mail_outline",
+        "id": 485,
+        "order": 36,
+        "prevSize": 24,
+        "code": 57569,
+        "name": "mail_outline"
+      },
+      "setIdx": 0,
+      "setId": 0,
+      "iconIdx": 485
+    }
+  ],
+  "height": 1024,
+  "preferences": {
+    "showGlyphs": true,
+    "showCodes": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "name": "icomoon",
+      "classSelector": ".icon",
+      "height": 32,
+      "columns": 16,
+      "margin": 16
+    },
+    "historySize": 50,
+    "showLiga": false
+  }
+}

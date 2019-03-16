@@ -1,7 +1,8 @@
 ---
 title: About
-hero_src: /images/kinsey-611970-unsplash_scaled.jpg
+hero_src: http://via.placeholder.com/200x150
 ---
+
 Transport Copy helps transportation, supply chain, and logistics companies reach their goals through precise, engaging, and easy-to-understand writing.
 
 **What does this mean?** Better training, happier employees, and a streamlined business- resulting in added profit down the road.

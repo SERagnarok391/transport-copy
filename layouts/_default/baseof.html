@@ -7,7 +7,11 @@
     {{ .Hugo.Generator }}
     <!-- specify default title -->
     <title>{{ block "title" . }}
-		{{ .Title | safeHTML }}
+        {{- if .IsHome -}}
+            {{- .Site.Title -}}
+        {{- else -}}
+            {{- .Title | safeHTML }} | {{ .Site.Title -}}
+        {{- end -}}
 	{{ end }}</title>
     {{ partial "header_includes" . }}
 </head>

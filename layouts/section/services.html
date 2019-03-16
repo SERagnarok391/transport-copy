@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+<div>
+    {{ partial "page-title" (dict "title" .Title "subtitle" .Params.subtitle)}}
+
+    <div class="max-w-lg mx-auto w-full px-4 md:px-8 py-2 mt-8 leading-normal">
+        {{ if (isset .Params "hero_src") }}
+			<div class="max-w-lg mx-auto shadow-md text-center">
+				<div class="h-64 bg-center bg-no-repeat bg-cover" style="background-image: url('{{ .Params.hero_src }}');"></div>
+			</div>
+		{{ end }}
+        <div class="content mt-8">
+            {{ .Content }}
+        </div>
+    </div>
+
+
+</div>
+
+{{ end }}

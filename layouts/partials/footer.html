@@ -1,15 +1,10 @@
-<!-- sticky footer height is same as <body> margin-bottom -->
+{{/* sticky footer height is same as <body> margin-bottom */}}
 <footer class="bg-my-teal text-grey-darkest absolute w-full pin-b">
-    <div class="container mx-auto px-8 py-4">
-            <ul class="list-reset">
-                <li><a class="no-underline text-grey-darkest dim" href="{{ .Site.BaseURL }}">Home</a></li>
-                {{ range .Site.Menus.main -}}
-                    <li class="mt-1"><a class="no-underline text-grey-darkest dim" href="{{ .URL }}">{{ .Name }}</a></li>
-                {{ end }}
-            </ul>
-            <div class="my-4">{{ .Site.Params.CopyrightHTML | safeHTML }}</div>
-        <div class="mt-4 mb-8 text-grey-darkest opacity-50"><a href="https://grayscale.digital" class="text-grey-darkest no-underline">Site by Grayscale Digital</a></div>
+    <div class="container mx-auto px-8 py-1 text-sm">
+        <div class="my-2 opacity-75">{{ .Site.Params.CopyrightHTML | safeHTML }}</div>
+        <div class="mt-1 mb-2 text-grey-darkest opacity-50"><a href="https://grayscale.digital" class="text-grey-darkest no-underline">Site by Grayscale Digital</a></div>
     </div>
 </footer>
 <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
 <script src="{{ .Site.BaseURL }}{{ index .Site.Data.assetMap "main.js" }}"></script>
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script>

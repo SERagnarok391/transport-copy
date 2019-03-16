@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+<div>
+    {{ partial "page-title" (dict "title" .Title "subtitle" .Params.subtitle)}}
+
+    {{ with .Content }}
+        <section class="container mx-auto max-w-lg mt-12 px-4 md:px-8 pb-8 text-grey-darker content">
+            {{ . }}
+        </section>
+    {{ end }}
+
+
+    <div class="container mx-auto mt-12 flex flex-col items-center px-4">
+        {{ range (where .Site.Pages.ByWeight "Section" "portfolio") }}
+            {{ if ne .Permalink $.Permalink }} <!-- don't include self -->
+                {{ .Render "summary" }}
+            {{ end }}
+        {{ end }}
+    </div>
+
+</div>
+
+{{ end }}
