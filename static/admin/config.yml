@@ -18,6 +18,13 @@ collections:
           - { label: "Subtitle", name: "subtitle", widget: "string" }
           - { label: "Button Text", name: "button_text", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown", required: false }
+      - name: "services"
+        label: "Services"
+        file: "content/services/_index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Hero Image", name: "hero_src", widget: "image", default: "http://via.placeholder.com/750x300" }
+          - { label: "Body", name: "body", widget: "markdown", required: false }
       - name: "about"
         label: "About Me"
         file: "content/about/_index.md"
@@ -25,9 +32,9 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Hero Image", name: "hero_src", widget: "image", default: "http://via.placeholder.com/750x300" }
           - { label: "Body", name: "body", widget: "markdown", required: false }
-      - name: "work"
-        label: "Previous Work"
-        file: "content/work/_index.md"
+      - name: "portfolio"
+        label: "Portfolio"
+        file: "content/portfolio/_index.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown", required: false }
@@ -37,9 +44,9 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown", required: false }
-  - name: "work"
-    label: "Work"
-    folder: "content/work"
+  - name: "portfolio"
+    label: "Portfolio"
+    folder: "content/portfolio"
     create: true
     slug: "{{slug}}"
     fields:
