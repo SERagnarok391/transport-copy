@@ -6,5 +6,8 @@ command = "yarn build"
 HUGO_VERSION = "0.54.0"
 HUGO_ENV = "production"
 
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.54.0"
+
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.54.0"
