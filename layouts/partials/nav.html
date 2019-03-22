@@ -1,7 +1,19 @@
 <header id="main-nav" class="w-full bg-white border-b border-grey-light">
     <div class="w-full bg-blue-darker text-white text-xs">
-        <div class="container mx-auto py-1 px-8">
-            <a href="tel:415.555.5555" class="text-white no-underline dim">{{ partial "icon" (dict "icon" "dialpad") }} 415.555.5555</a> | <a href="mailto:sharon@transportcopy.com" class="text-white no-underline dim">{{ partial "icon" (dict "icon" "mail_outline") }} sharon@transportcopy.com</a>
+        <div class="container mx-auto py-1 px-8 flex">
+            <a href="tel:415.555.5555" class="text-white no-underline dim">
+                <div class="inline-block flex items-center">
+                    {{ partial "icon" (dict "icon" "dialpad") }}
+                    <span class="ml-1">415.555.5555</span>
+                </div>
+            </a>
+            <div class="mx-1">|</div>
+            <a href="mailto:sharon@transportcopy.com" class="text-white no-underline dim">
+                <div class="inline-block flex items-center">
+                    {{ partial "icon" (dict "icon" "mail_outline") }} 
+                    <span class="ml-1">sharon@transportcopy.com</span>
+                </div>
+            </a>
         </div>
     </div>
     <div class="container mx-auto flex flex-col md:flex-row items-center justify-between py-4 px-8">
