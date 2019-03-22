@@ -10,18 +10,18 @@
                 {{ .Content }}
 
                 <div class="mt-4 mb-2">
-                    <a href="tel:{{ .Site.Params.contact_phone }}" class="no-underline dim">
+                    <a href="tel:{{ .Site.Data.siteconfig.contact_phone }}" class="no-underline dim">
                         <div class="inline-block flex items-center">
                             {{ partial "icon" (dict "icon" "dialpad") }}
-                            <span class="ml-1">{{ .Site.Params.contact_phone }}</span>
+                            <span class="ml-1">{{ .Site.Data.siteconfig.contact_phone }}</span>
                         </div>
                     </a>
                 </div>
                 <div class="my-2">
-                    <a href="mailto:{{ .Site.Params.contact_email }}" class="no-underline dim">
+                    <a href="mailto:{{ .Site.Data.siteconfig.contact_email }}" class="no-underline dim">
                         <div class="inline-block flex items-center">
                             {{ partial "icon" (dict "icon" "mail_outline") }} 
-                            <span class="ml-1">{{ .Site.Params.contact_email }}</span>
+                            <span class="ml-1">{{ .Site.Data.siteconfig.contact_email }}</span>
                         </div>
                     </a>
                 </div>

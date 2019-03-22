@@ -63,8 +63,23 @@ collections:
   - name: "config"
     label: "Config"
     files:
-      - name: "siteconfig"
-        label: "Site Config"
+      - label: "Site Config"
+        name: "siteconfig"
         file: "/data/siteconfig.yaml"
         fields:
           - { label: "Copyright", name: "CopyrightHTML", widget: "string" }
+          - { label: "Contact Phone", name: "contact_phone", widget: "string" }
+          - { label: "Contact Email", name: "contact_email", widget: "string" }
+          - label: "Navigation"
+            name: "navigation"
+            widget: "object"
+            fields:
+              - label: "Social"
+                name: "social"
+                widget: "list"
+                create: true
+                fields:
+                  - { label: "Name", name: "Name", widget: "string" }
+                  - { label: "Weight", name: "Weight", widget: "number" }
+                  - { label: "Icon", name: "Identifier", widget: "string" }
+                  - { label: "URL", name: "URL", widget: "string" }

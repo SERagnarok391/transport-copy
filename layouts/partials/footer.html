@@ -2,7 +2,7 @@
 <footer class="bg-my-teal text-grey-darkest absolute w-full pin-b">
     <div class="container mx-auto px-8 py-1 text-sm">
         <div class="my-2">
-            {{ range .Site.Params.navigation.social -}}
+            {{ range .Site.Data.siteconfig.navigation.social -}}
                 <a class="mr-4 text-grey-darkest no-underline text-3xl dim" href="{{ .URL }}" title="{{ .Name }}">{{ partial "icon" (dict "icon" .Identifier) }}</a>
             {{ end }}
         </div>
