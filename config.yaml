@@ -14,6 +14,20 @@ taxonomies:
 
 params:
   CopyrightHTML: "Copyright &#xA9; 2019 Transport Copy LLC"
+  navigation:
+    social:
+      - Name: "LinkedIn"
+        Weight: 1
+        Identifier: "linkedin-square"
+        URL: "https://linkedin.com"
+      - Name: "Facebook"
+        Weight: 2
+        Identifier: "facebook-square"
+        URL: "https://facebook.com"
+      - Name: "Twitter"
+        Weight: 3
+        Identifier: "twitter-square"
+        URL: "https://twitter.com/transportcopy"
 
 menu:
   main:
