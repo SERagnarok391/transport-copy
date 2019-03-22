@@ -1,6 +1,6 @@
 ---
 title: About
-headline: Hey, I'm Sharon.
+headline: Here's some more about me.
 subheadline: Here's some more text about me, and why shipping containers are super cool.
 img_src_1: http://via.placeholder.com/500x400
 ---

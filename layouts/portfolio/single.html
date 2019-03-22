@@ -12,7 +12,7 @@
 			</div>
 		{{ end }}
 		<div class="max-w-md mx-auto mt-8">
-			<h1 class="text-grey-darker text-4xl">{{ .Title | safeHTML }}</h1>
+			<h1 class="text-grey-darkest text-4xl">{{ .Title | safeHTML }}</h1>
 			<div class="text-grey-dark my-2">By {{ .Params.author }}</div>
 			{{ with .Params.link }}
 			<a class="btn btn-blue" href="{{ . }}">Read it live</a>

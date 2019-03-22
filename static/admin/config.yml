@@ -15,7 +15,8 @@ collections:
         file: "content/_index.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "Subtitle", name: "subtitle", widget: "string" }
+          - { label: "Headline", name: "headline", widget: "string" }
+          - { label: "Sub-headline", name: "subheadline", widget: "string" }
           - { label: "Button Text", name: "button_text", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown", required: false }
       - name: "services"

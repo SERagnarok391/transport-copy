@@ -127,7 +127,8 @@ let colors = {
 	'pink-lighter': '#ffbbca',
 	'pink-lightest': '#ffebef',
 
-	'my-teal': '#88b1d3'
+	'my-teal': '#88b1d3',
+	'off-black': 'rgba(0,0,0,0.5)'
 };
 
 module.exports = {
@@ -166,6 +167,7 @@ module.exports = {
   */
 
 	screens: {
+		mobile: { max: '768px' },
 		sm: '576px',
 		md: '768px',
 		lg: '992px',
@@ -510,6 +512,8 @@ module.exports = {
 		'48': '12rem',
 		'64': '16rem',
 		'100': '25rem',
+		'125': '32rem',
+		'1/2': '50%',
 		full: '100%',
 		screen: '100vh'
 	},

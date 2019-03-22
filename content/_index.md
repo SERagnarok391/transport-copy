@@ -1,8 +1,20 @@
 ---
 title: Transport Copy
-subtitle: >-
-  I write technical and marketing documents for the supply chain/logistics
-  industry.
-button_text: I need writing!
+headline: Hey, I'm Sharon.
+subheadline: >-
+  I write technical and marketing documents for the supply chain/logistics industry. Think of what we 
+  could achieve together. #VALHALLA
+bg_img_src: http://via.placeholder.com/1200x600
+button_text: Hire Me
+benefits:
+  - title: Gain Industry Authority
+    icon: line-chart
+    description: Sweet roll cheesecake cake toffee halvah. Pastry toffee sugar plum. Tootsie roll jelly-o chocolate bar powder. Gummies powder.
+  - title: Build a Stronger Brand
+    icon: trophy
+    description: Bear claw wafer cheesecake gummies pie tootsie roll chocolate bar. Tart croissant marzipan. Cookie tiramisu marzipan. Liquorice cookie reefer madness abroad.
+  - title: Get More Leads
+    icon: money
+    description: Toffee cake chocolate cake lemon drops sweet roll. Oat cake candy canes sweet roll chocolate cake jelly beans apple pie.
 ---
 

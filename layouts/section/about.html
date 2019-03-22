@@ -14,14 +14,14 @@
                 {{ end }}
             </div>
 
-            <div class="px-2 md:px-8 py-4 text-grey-darker content">
-                <div class="text-3xl md:text-5xl font-bold">{{ .Params.headline }}</div>
-                <div class="text-xl md:text-3xl">{{ .Params.subheadline }}</div>
+            <div class="px-2 md:px-8 py-4 leading-tight content">
+                <h1 class="text-3xl md:text-5xl text-black">{{ .Params.headline }}</h1>
+                <h3 class="text-xl md:text-3xl text-grey-darkest font-normal">{{ .Params.subheadline }}</h3>
             </div>
 
         </div>
 
-        <div class="mx-auto max-w-lg w-full px-2 md:px-8 md:mt-8 text-grey-darker leading-normal content">
+        <div class="mx-auto max-w-lg w-full px-2 md:px-8 md:mt-8 text-grey-darkest leading-normal content">
             {{ .Content }}
         </div>
     </div>

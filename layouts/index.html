@@ -1,14 +1,31 @@
 {{ define "main" }}
 
-    <div class="container mx-auto px-4 md:px-8">
-        <div class="text-center mt-16">
-            <h1 class="text-3xl md:text-5xl">{{ .Params.subtitle }}</h1>
+    <div class="container mx-auto px-4 md:px-8 text-grey-darkest">
 
-            <a class="btn btn-yellow md:text-xl mb-8" href="/contact/">{{ .Params.button_text }}</a>
-
-            <div class="content">
-                {{ .Content }}
+        <div class="md:h-125 flex flex-col md:flex-row mb-16 bg-center bg-no-repeat bg-cover" style="background-image: url('{{ .Params.bg_img_src }}');">
+            <div class="mobile:h-64 md:w-1/2"></div>
+            <div class="mobile:h-1/2 md:w-1/2 py-8 px-8 text-white">
+                <h1 class="text-3xl md:text-4xl lg:text-5xl mb-4 leading-tight">{{ .Params.headline }}</h1>
+                <h2 class="text-xl md:text-2xl lg:text-3xl font-normal mb-4 inline bg-white text-grey-darker leading-normal">{{ .Params.subheadline }}</h2>
+    
+                <div>
+                    <a class="btn btn-yellow md:text-xl" href="/contact/">{{ .Params.button_text }}</a>
+                </div>
             </div>
+        </div>
+
+        <div class="grid grid-columns-1 md:grid-columns-3 mb-16">
+            {{ range .Params.benefits }}
+                <div class="px-2 md:px-8 py-4 text-center">
+                    <div class="text-3xl">{{ partial "icon" (dict "icon" .icon) }}</div>
+                    <h3 class="mb-2">{{ .title }}</h3>
+                    <p class="content">{{ .description }}</p>
+                </div>
+            {{ end }}
+        </div>
+
+        <div class="content">
+            {{ .Content }}
         </div>
 
     </div>
