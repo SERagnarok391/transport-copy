@@ -5,7 +5,7 @@ slug: sample-3
 author: Sharon Beckstrand
 description: >
   This one would be just an external link.
-hero_src: https://tailwindcss.com/img/card-left.jpg
+hero_src: /images/container-1611490_1920_scaled.jpg
 link: https://tailwindcss.com/
 link_only: true
 ---

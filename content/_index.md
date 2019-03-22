@@ -16,5 +16,9 @@ benefits:
   - title: Get More Leads
     icon: money
     description: Toffee cake chocolate cake lemon drops sweet roll. Oat cake candy canes sweet roll chocolate cake jelly beans apple pie.
+cta_header: Want to check out some of my work?
+cta_description: Go ahead and visit my portfolio
+cta_link: /portfolio/
 ---
 
+Fruitcake pastry toffee cotton candy chocolate pastry macaroon. Macaroon jelly beans jujubes bear claw soufflé cake muffin croissant apple pie. Cheesecake bear claw powder liquorice cake danish.
