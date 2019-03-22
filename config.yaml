@@ -14,6 +14,8 @@ taxonomies:
 
 params:
   CopyrightHTML: "Copyright &#xA9; 2019 Transport Copy LLC"
+  contact_phone: "415.555.5555"
+  contact_email: "sharon@transportcopy.com"
   navigation:
     social:
       - Name: "LinkedIn"
