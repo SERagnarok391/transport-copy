@@ -60,3 +60,11 @@ collections:
       - { label: "Link Only?", name: "link_only", widget: "boolean", required: false }
       - { label: "Hero Image", name: "hero_src", widget: "image", default: "http://via.placeholder.com/500x280", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "config"
+    label: "Config"
+    files:
+      - name: "siteconfig"
+        label: "Site Config"
+        file: "/data/siteconfig.yaml"
+        fields:
+          - { label: "Copyright", name: "CopyrightHTML", widget: "string" }
