@@ -3,17 +3,28 @@
 <div>
     {{ partial "page-title" (dict "title" .Title "subtitle" .Params.subtitle)}}
 
-    <div class="max-w-lg mx-auto w-full px-4 md:px-8 py-2 mt-8 leading-normal">
-        {{ if (isset .Params "hero_src") }}
-			<div class="max-w-lg mx-auto shadow-md text-center">
-				<div class="h-64 bg-center bg-no-repeat bg-cover" style="background-image: url('{{ .Params.hero_src }}');"></div>
-			</div>
-		{{ end }}
-        <div class="content mt-8">
-            {{ .Content }}
+    <div class="container mx-auto mt-12 px-2 md:px-8">
+        <div class="grid grid-columns-1 md:grid-columns-2">
+
+            <div class="px-2 md:px-8 py-4">
+                {{ if (isset .Params "img_src_1") }}
+                    <div class="shadow-md">
+                        <div class="h-64 bg-center bg-no-repeat bg-cover" style="background-image: url('{{ .Params.img_src_1 }}');"></div>
+                    </div>
+                {{ end }}
+                {{ if (isset .Params "img_src_2") }}
+                    <div class="shadow-md mt-8 mobile:hidden">
+                        <div class="h-64 bg-center bg-no-repeat bg-cover" style="background-image: url('{{ .Params.img_src_2 }}');"></div>
+                    </div>
+                {{ end }}
+            </div>
+
+            <div class="px-2 md:px-8 py-4 text-grey-darker leading-normal content">
+                {{ .Content }}
+            </div>
+
         </div>
     </div>
-
 
 </div>
 
