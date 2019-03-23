@@ -4,7 +4,7 @@ headline: Hey, I'm Sharon.
 subheadline: >-
   I write technical and marketing documents for the supply chain/logistics industry. Think of what we 
   could achieve together. #VALHALLA
-bg_img_src: http://via.placeholder.com/1200x600
+bg_img_src: https://via.placeholder.com/1200x600
 button_text: Hire Me
 benefits:
   - title: Gain Industry Authority

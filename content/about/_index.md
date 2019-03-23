@@ -2,7 +2,7 @@
 title: About
 headline: Here's some more about me.
 subheadline: Here's some more text about me, and why shipping containers are super cool.
-img_src_1: http://via.placeholder.com/500x400
+img_src_1: https://via.placeholder.com/500x400
 ---
 
 Transport Copy helps transportation, supply chain, and logistics companies reach their goals through precise, engaging, and easy-to-understand writing.

@@ -17,21 +17,36 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Headline", name: "headline", widget: "string" }
           - { label: "Sub-headline", name: "subheadline", widget: "string" }
+          - { label: "Background", name: "bg_img_src", widget: "image", default: "https://via.placeholder.com/1200x600" }
           - { label: "Button Text", name: "button_text", widget: "string" }
+          - label: "Benefits"
+            name: "benefits"
+            widget: "list"
+            create: true
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Icon", name: "icon", widget: "string" }
+              - { label: "Description", name: "description", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown", required: false }
+          - { label: "CTA Header", name: "cta_header", widget: "string" }
+          - { label: "CTA Description", name: "cta_description", widget: "string" }
+          - { label: "CTA Link", name: "cta_link", widget: "string" }
       - name: "services"
         label: "Services"
         file: "content/services/_index.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "Hero Image", name: "hero_src", widget: "image", default: "http://via.placeholder.com/750x300" }
+          - { label: "Image 1", name: "img_src_1", widget: "image", default: "https://via.placeholder.com/500x250" }
+          - { label: "Image 2", name: "img_src_2", widget: "image", default: "https://via.placeholder.com/500x250" }
           - { label: "Body", name: "body", widget: "markdown", required: false }
       - name: "about"
         label: "About Me"
         file: "content/about/_index.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "Hero Image", name: "hero_src", widget: "image", default: "http://via.placeholder.com/750x300" }
+          - { label: "Headline", name: "headline", widget: "string" }
+          - { label: "Sub-headline", name: "subheadline", widget: "string" }
+          - { label: "Image 1", name: "img_src_1", widget: "image", default: "https://via.placeholder.com/500x400" }
           - { label: "Body", name: "body", widget: "markdown", required: false }
       - name: "portfolio"
         label: "Portfolio"
@@ -58,7 +73,7 @@ collections:
       - { label: "Description", name: "description", widget: "markdown", required: false }
       - { label: "Link", name: "link", widget: "string", required: false }
       - { label: "Link Only?", name: "link_only", widget: "boolean", required: false }
-      - { label: "Hero Image", name: "hero_src", widget: "image", default: "http://via.placeholder.com/500x280", required: false }
+      - { label: "Hero Image", name: "hero_src", widget: "image", default: "https://via.placeholder.com/500x280", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "config"
     label: "Config"
