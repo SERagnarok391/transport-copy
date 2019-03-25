@@ -2,9 +2,9 @@
 title: Transport Copy
 headline: 'Hey, I''m Sharon.'
 subheadline: >-
-  I'm a writer specializing in B2B supply chain, transportation, and high-tech
-  content. From blog posts to white papers, I'll make sure your mission is
-  communicated with maximum benefit.
+  I specialize in writing B2B supply chain, transportation, and high-tech
+  content. From blog posts to white papers, I'll make sure your company's
+  mission is communicated with maximum results. 
 bg_img_src: 'https://via.placeholder.com/1200x600'
 button_text: Hire Me
 benefits:
@@ -25,7 +25,7 @@ benefits:
     icon: money
     title: Get More Leads
 cta_header: Want to check out some of my work?
-cta_description: Go ahead and visit my portfolio
+cta_description: My portfolio
 cta_link: /portfolio/
 ---
 
