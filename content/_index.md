@@ -1,21 +1,29 @@
 ---
 title: Transport Copy
-headline: Hey, I'm Sharon.
+headline: 'Hey, I''m Sharon.'
 subheadline: >-
-  I write technical and marketing documents for the supply chain/logistics industry. Think of what we 
-  could achieve together. #VALHALLA
-bg_img_src: https://via.placeholder.com/1200x600
+  I'm a writer specializing in B2B supply chain, transportation, and high-tech
+  content. From blog posts to white papers, I'll make sure your mission is
+  communicated with maximum benefit.
+bg_img_src: 'https://via.placeholder.com/1200x600'
 button_text: Hire Me
 benefits:
-  - title: Gain Industry Authority
+  - description: >-
+      Sweet roll cheesecake cake toffee halvah. Pastry toffee sugar plum.
+      Tootsie roll jelly-o chocolate bar powder. Gummies powder.
     icon: line-chart
-    description: Sweet roll cheesecake cake toffee halvah. Pastry toffee sugar plum. Tootsie roll jelly-o chocolate bar powder. Gummies powder.
-  - title: Build a Stronger Brand
+    title: Gain Industry Authority
+  - description: >-
+      Bear claw wafer cheesecake gummies pie tootsie roll chocolate bar. Tart
+      croissant marzipan. Cookie tiramisu marzipan. Liquorice cookie reefer
+      madness abroad.
     icon: trophy
-    description: Bear claw wafer cheesecake gummies pie tootsie roll chocolate bar. Tart croissant marzipan. Cookie tiramisu marzipan. Liquorice cookie reefer madness abroad.
-  - title: Get More Leads
+    title: Build a Stronger Brand
+  - description: >-
+      Toffee cake chocolate cake lemon drops sweet roll. Oat cake candy canes
+      sweet roll chocolate cake jelly beans apple pie.
     icon: money
-    description: Toffee cake chocolate cake lemon drops sweet roll. Oat cake candy canes sweet roll chocolate cake jelly beans apple pie.
+    title: Get More Leads
 cta_header: Want to check out some of my work?
 cta_description: Go ahead and visit my portfolio
 cta_link: /portfolio/
