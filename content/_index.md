@@ -8,9 +8,7 @@ subheadline: >-
 bg_img_src: 'https://via.placeholder.com/1200x600'
 button_text: Hire Me
 benefits:
-  - description: >-
-      Sweet roll cheesecake cake toffee halvah. Pastry toffee sugar plum.
-      Tootsie roll jelly-o chocolate bar powder. Gummies powder.
+  - description: 'In order to stand out with your blog posts and '
     icon: line-chart
     title: Gain Industry Authority
   - description: >-
