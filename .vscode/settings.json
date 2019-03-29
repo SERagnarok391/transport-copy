@@ -31,5 +31,11 @@
 	"scss.validate": false,
 	"stylelint.enable": true, // Enable stylelint
 	"eslint.validate": ["javascript", "javascriptreact", "vue"],
-	"eslint.packageManager": "yarn"
+	"eslint.packageManager": "yarn",
+	"workbench.colorCustomizations": {
+		"titleBar.activeBackground": "#f9e64f",
+		"titleBar.inactiveBackground": "#f9e64f99",
+		"titleBar.activeForeground": "#15202b",
+		"titleBar.inactiveForeground": "#15202b99"
+	}
 }
