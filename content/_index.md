@@ -1,8 +1,8 @@
 ---
 title: Transport Copy
 subtitle: >-
-  I write technical and marketing documents for the supply chain/logistics
-  industry.
-button_text: I need writing!
+  I write copy and content marketing campaigns for the supply chain and
+  transportation industries.
+button_text: I need copy!
 ---
 
